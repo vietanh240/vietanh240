@@ -1,4 +1,6 @@
-
+<a href="#" target="_blank">
+  <img src="svg/vietanhdev.svg" width="1200" alt="vietanhdev-official" />
+</a>
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.youtube.com/@yugih5exosister) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/vietanh6529/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@yugih5exosister) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rtmx24@gmail.com) 
 
