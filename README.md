@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Gemstones&pause=1000&color=34B4EDD4&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+%F0%9F%91%8B+Xin+ch%C3%A0o+m%E1%BB%8Di+ng%C6%B0%E1%BB%9Di+!!;Tui+l%C3%A0+Zi%E1%BB%87t+%40nh+%E2%9C%A8+%E2%9C%A8+%E2%9C%A8)](https://git.io/typing-svg)
+
 <a href="#" target="_blank">
   <img src="svg/vietanhdev.svg" width="1200" alt="vietanhdev-official" />
 </a>
