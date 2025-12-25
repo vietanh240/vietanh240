@@ -66,4 +66,5 @@
 <img src="https://w7.pngwing.com/pngs/363/663/png-transparent-yugi-mutou-yami-yugi-yu-gi-oh-duel-links-jaden-yuki-bakura-yu-manga-fictional-character-cartoon-thumbnail.png" width="50">oke</img>
 <img src="https://icon-library.com/images/2018/3259330_yami-yugi-yu-gi-png-png-download.png" width="150">oke</img>
 <img src="https://www.seekpng.com/png/detail/71-713236_puzzle-render-by-alanmac-on-deviantart-yugioh-millenium.png" width="50">oke</img>
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> ABOUT ME <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" width="40px" /></p>
 
