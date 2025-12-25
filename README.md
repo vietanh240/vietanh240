@@ -19,9 +19,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=vietanh240&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vietanh240&icon=0&color=0)](https://visitcount.itsvg.in)
 <br>
-<h2 align="center">👽 Contact me 👽</h2>
+<h2 align="center">🗨️ Contact me 🗨️</h2>
 <br>
 <div align="center">
   <a href="https://www.facebook.com/viet.anh.nguyen.756213" target="blank">
