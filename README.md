@@ -21,7 +21,7 @@
 <br>
 <h2 align="center">🗨️ Contact me 🗨️</h2>
 <br>
-<img align="right" src="https://i.pinimg.com/originals/c5/f3/c2/c5f3c2ac094652efbc05172cd55120da.gif?nii=t" width="300">
+<img align="right" src="https://i.pinimg.com/originals/c5/f3/c2/c5f3c2ac094652efbc05172cd55120da.gif?nii=t" width="250">
 <div align="left">
   <a href="https://www.facebook.com/viet.anh.nguyen.756213" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="vietanhdev-facebook" />
