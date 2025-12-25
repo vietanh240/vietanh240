@@ -1,11 +1,4 @@
-<p align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Gemstones&size=30&pause=1000&color=34B4EDD4&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+%F0%9F%91%8B+Xin+ch%C3%A0o+m%E1%BB%8Di+ng%C6%B0%E1%BB%9Di+!!;Tui+l%C3%A0+Zi%E1%BB%87t+%40nh+%E2%9C%A8+%E2%9C%A8+%E2%9C%A8)](https://git.io/typing-svg) </p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=27&duration=3500&pause=749&color=60B5FF&vCenter=true&multiline=true&width=580&height=75&lines=%F0%9F%83%8F+Jack+of+some+trades%2C+master+of+none+%F0%9F%83%8F;%E2%9C%A8+But+give+me+a+keyboard+and+we%E2%80%99ll+see+%3AD+%E2%9C%A8" />
-  </a>
-</p>
-
+## <p align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Gemstones&size=30&pause=1000&color=34B4EDD4&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+%F0%9F%91%8B+Xin+ch%C3%A0o+m%E1%BB%8Di+ng%C6%B0%E1%BB%9Di+!!;Tui+l%C3%A0+Zi%E1%BB%87t+%40nh+%E2%9C%A8+%E2%9C%A8+%E2%9C%A8)](https://git.io/typing-svg) </p>
 
 <a href="#" target="_blank">
   <img src="svg/vietanhdev.svg" width="1200" alt="vietanhdev-official" />
