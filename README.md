@@ -87,4 +87,7 @@
   <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in&layout=zues&font=PixelifySans&quoteType=random" alt="Quote" />
 </div>
 
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31heslcaoesqrx6b6mvww6g4ao3q">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31heslcaoesqrx6b6mvww6g4ao3q" alt="Data Card for Spotify">
+</a>
 
