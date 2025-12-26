@@ -15,7 +15,7 @@
     <td>24/02/2006</td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" /> Location</td>
+    <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/House.webp" alt="House" width="25" height="25" /> Location</td>
     <td>Ha Noi Capital, Viet Nam</td>
   </tr>
   <tr>
