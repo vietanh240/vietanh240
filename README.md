@@ -67,4 +67,25 @@
 <img src="https://icon-library.com/images/2018/3259330_yami-yugi-yu-gi-png-png-download.png" width="150">oke</img>
 <img src="https://www.seekpng.com/png/detail/71-713236_puzzle-render-by-alanmac-on-deviantart-yugioh-millenium.png" width="50">oke</img>
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> ABOUT ME <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" width="40px" /></p>
-
+<table>
+  <tr>
+    <td>Hàng 1 - Cột 1</td>
+    <td>Hàng 1 - Cột 2</td>
+  </tr>
+  <tr>
+    <td>Hàng 2 - Cột 1</td>
+    <td>Hàng 2 - Cột 2</td>
+  </tr>
+  <tr>
+    <td>Hàng 3 - Cột 1</td>
+    <td>Hàng 3 - Cột 2</td>
+  </tr>
+  <tr>
+    <td>Hàng 4 - Cột 1</td>
+    <td>Hàng 4 - Cột 2</td>
+  </tr>
+  <tr>
+    <td>Hàng 5 - Cột 1</td>
+    <td>Hàng 5 - Cột 2</td>
+  </tr>
+</table>
