@@ -4,6 +4,30 @@
   <img src="svg/vietanhdev.svg" width="1200" alt="vietanhdev-official" />
 </a>
 
+## <p align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Angry%20Face%20with%20Horns.png" alt="Angry Face with Horns" width="30" height="30" /> ABOUT ME <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="30" height="30" />
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Skull%20And%20Crossbones.webp" alt="Skull And Crossbones" width="25" height="25" /> Full Name</td>
+    <td>Nguyen Viet Anh</td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Collision.webp" alt="Collision" width="25" height="25" /> Birthday</td>
+    <td>24/02/2006</td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" /> Location</td>
+    <td>Ha Noi Capital, Viet Nam</td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="25" height="25" /> University</td>
+    <td>University of Transport and Communications</td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Telephone%20Receiver.webp" alt="Telephone Receiver" width="25" height="25" /> Phone</td>
+    <td>0353536645</td>
+  </tr>
+</table>
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.youtube.com/@yugih5exosister) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/vietanh6529/) 
