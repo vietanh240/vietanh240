@@ -38,7 +38,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=vietanh240&limit=5&theme=dark&combine_all_yearly_contributions=true)
 [![](https://visitcount.itsvg.in/api?id=vietanh240&icon=0&color=0)](https://visitcount.itsvg.in)
 <br>
-<h2 align="center">🗨️ Contact me 🗨️</h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Speech%20Balloon.webp" alt="Speech Balloon" width="25" height="25" /> Contact me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Speech%20Balloon.webp" alt="Speech Balloon" width="25" height="25" /></h2>
 <br>
 <img align="right" src="https://i.pinimg.com/originals/c5/f3/c2/c5f3c2ac094652efbc05172cd55120da.gif?nii=t" width="250">
 <div align="left">
