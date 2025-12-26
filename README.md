@@ -1,4 +1,4 @@
-## <p align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Gemstones&size=30&pause=1000&color=34B4EDD4&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+%F0%9F%91%8B+Xin+ch%C3%A0o+m%E1%BB%8Di+ng%C6%B0%E1%BB%9Di+!!;Tui+l%C3%A0+Zi%E1%BB%87t+%40nh+%E2%9C%A8+%E2%9C%A8+%E2%9C%A8)](https://git.io/typing-svg) </p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bomb.webp" alt="Bomb" width="25" height="25" />
+## <p align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Gemstones&size=30&pause=1000&color=34B4EDD4&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+%F0%9F%91%8B+Xin+ch%C3%A0o+m%E1%BB%8Di+ng%C6%B0%E1%BB%9Di+!!;Tui+l%C3%A0+Zi%E1%BB%87t+%40nh+%E2%9C%A8+%E2%9C%A8+%E2%9C%A8)](https://git.io/typing-svg)<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bomb.webp" alt="Bomb" width="25" height="25" /> </p>
 
 <a href="#" target="_blank">
   <img src="svg/vietanhdev.svg" width="1200" alt="vietanhdev-official" />
