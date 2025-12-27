@@ -52,6 +52,9 @@
 ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
 
 # 📊 GitHub Stats:
+<a href="https://streak-stats.demolab.com/?user=vietanh240&theme=prussian&hide_border=true&border_radius=30&card_width=550&background=45%2C0A0F1F%2C102A43%2C00D4FF">
+  <img src="svg/github-status.svg" alt="github-status" />
+</a>
 [![GitHub Streak](https://streak-stats.demolab.com?user=vietanh240&theme=prussian&hide_border=true&border_radius=30&card_width=550)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=vietanh240&theme=prussian&hide_border=true&border_radius=30&card_width=550&background=45%2C0A0F1F%2C102A43%2C00D4FF)](https://git.io/streak-stats)
 
