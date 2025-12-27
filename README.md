@@ -51,7 +51,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
 # 📊 GitHub Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=vietanh240&theme=prussian&hide_border=true&border_radius=30&card_width=550&background=45%2CF8FAFC%2CE2E8F0%2CCBD5E1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vietanh240&theme=prussian&hide_border=true&border_radius=30&card_width=550&background=45%2C0A0F1F%2C102A43%2C00D4FF)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vietanh240&theme=radical&no-frame=false&no-bg=true&margin-w=4)
