@@ -11,7 +11,7 @@
 ## <p align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Angry%20Face%20with%20Horns.png" alt="Angry Face with Horns" width="30" height="30" /> ABOUT ME <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="30" height="30" />
 
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31heslcaoesqrx6b6mvww6g4ao3q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)">
-  <img align="right" height="250" src="svg/spotify.svg" alt="spotify" />
+  <img align="right" height="300" src="svg/spotify.svg" alt="spotify" />
 </a>
 
 <table>
@@ -62,7 +62,7 @@
 
 # 📊 GitHub Stats:
 <a href="https://streak-stats.demolab.com/?user=vietanh240&theme=prussian&hide_border=true&border_radius=30&card_width=550&background=45%2C0A0F1F%2C102A43%2C00D4FF">
-  <img src="svg/github-status.svg" width="1000" alt="github-status" />
+  <img src="svg/github-status.svg" width="800" alt="github-status" />
 </a>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=vietanh240&theme=prussian&hide_border=true&border_radius=30&card_width=550)](https://git.io/streak-stats)
