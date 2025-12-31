@@ -79,7 +79,7 @@
 ---
 
 ### <p align="center"> Github Readme Activity Graph </p>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vietanh240&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vietanh240&theme=react-dark&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
