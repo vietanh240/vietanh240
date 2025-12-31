@@ -110,7 +110,7 @@ CSS          0 secs          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Musical%20Notes.webp" alt="Musical Notes" width="35" height="35" /> Data Card for Spotify <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Musical%20Note.webp" alt="Musical Note" width="35" height="35" />
+  <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Musical%20Notes.webp" alt="Musical Notes" width="35" height="35" /> Data Card for Spotify <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Musical%20Note.webp" alt="Musical Note" width="35" height="35" /></h1>
     <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31heslcaoesqrx6b6mvww6g4ao3q"><img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31heslcaoesqrx6b6mvww6g4ao3q" alt="Data Card for Spotify"></a>
     <br>
     <br>
