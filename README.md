@@ -1,5 +1,5 @@
-<a align="right" href="https://spotify-github-profile.kittinanx.com/api/view?uid=31heslcaoesqrx6b6mvww6g4ao3q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)">
-  <img src="svg/spotify.svg" alt="spotify" />
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31heslcaoesqrx6b6mvww6g4ao3q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)">
+  <img align="right" src="svg/spotify.svg" alt="spotify" />
 </a>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31heslcaoesqrx6b6mvww6g4ao3q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
