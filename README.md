@@ -78,6 +78,11 @@
 
 ---
 
+### <p align="center"> Github Readme Activity Graph </p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vietanh240&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
 ### <p align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Angry%20Face%20with%20Horns.png" alt="Angry Face with Horns" width="30" height="30" /> Weekly Development Breakdown <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="30" height="30" /></p>
 <!--START_SECTION:waka-->
 
