@@ -72,7 +72,7 @@
 [![](https://visitcount.itsvg.in/api?id=vietanh240&icon=0&color=0)](https://visitcount.itsvg.in)
 <br>
 
-### <p align="center"> GitHub Profile 3D Contrib </p>
+### <p align="center"> GITHUB PROFILE 3D CONTRIB</p>
 ![svg](https://raw.githubusercontent.com/vietanh240/vietanh240/6702a5e6ee23265cbe5284132e8b5564fb502dbb/profile-3d-contrib/profile-south-season-animate.svg)
 
 ---
