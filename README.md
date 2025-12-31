@@ -8,7 +8,7 @@
   <img src="svg/vietanhdev.svg" width="1200" alt="vietanhdev-official" />
 </a>
 
-## <p align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Angry%20Face%20with%20Horns.png" alt="Angry Face with Horns" width="30" height="30" /> ABOUT ME <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="30" height="30" />
+## <p align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Angry%20Face%20with%20Horns.png" alt="Angry Face with Horns" width="30" height="30" /> ABOUT ME <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="30" height="30" /> </p>
 
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31heslcaoesqrx6b6mvww6g4ao3q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)">
   <img align="right" height="300" src="svg/spotify.svg" alt="spotify" />
@@ -97,6 +97,7 @@
 
 ---
 
+## <p align="center">Weekly development breakdown</p>
 ## Weekly development breakdown
 <!--START_SECTION:waka-->
 
