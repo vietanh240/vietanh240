@@ -84,6 +84,7 @@
 
 <!--END_SECTION:waka-->
 <br>
+
 ---
 
 ### <p align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Musical%20Notes.webp" alt="Musical Notes" width="35" height="35" /> SPOTIFY GITHUB <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Musical%20Notes.webp" alt="Musical Notes" width="35" height="35" /> </p>
@@ -92,6 +93,7 @@
   <img src="svg/spotify.svg" style="max-width: 100% alt="spotify" />
 </p>
 <br>
+
 ---
 
 <div align="center">
@@ -124,6 +126,7 @@
 </div>
 <br>
 <br>
+
 ---
 
 
