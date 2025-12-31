@@ -72,12 +72,12 @@
 [![](https://visitcount.itsvg.in/api?id=vietanh240&icon=0&color=0)](https://visitcount.itsvg.in)
 <br>
 
-### <p align="center"> GITHUB PROFILE 3D CONTRIB</p>
+### <p align="center"> GitHub Profile 3D Contrib</p>
 ![svg](https://raw.githubusercontent.com/vietanh240/vietanh240/6702a5e6ee23265cbe5284132e8b5564fb502dbb/profile-3d-contrib/profile-south-season-animate.svg)
 
 ---
 
-### <p align="center"> WEEKLY DEVELOPMENT BREAKDOWN </p>
+### <p align="center"> Weekly Development Breakdown </p>
 <!--START_SECTION:waka-->
 
 ```txt
@@ -91,7 +91,7 @@
 
 ---
 
-### <p align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Musical%20Notes.webp" alt="Musical Notes" width="35" height="35" /> SPOTIFY GITHUB <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Musical%20Notes.webp" alt="Musical Notes" width="35" height="35" /> </p>
+### <p align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Musical%20Notes.webp" alt="Musical Notes" width="35" height="35" /> Spotify Github <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Musical%20Notes.webp" alt="Musical Notes" width="35" height="35" /> </p>
 <p align="center">
   <img src="svg/spotify-theme.svg" style="max-width: 100% alt="spotify-theme" /> <br>
   <img src="svg/spotify.svg" style="max-width: 100% alt="spotify" />
