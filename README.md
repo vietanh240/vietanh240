@@ -8,6 +8,7 @@
   <img src="svg/vietanhdev.svg" width="1200" alt="vietanhdev-official" />
 </a>
 
+[![🧊 ABOUT ME 🧊](https://pimp-my-readme-next.vercel.app/api/sliding-text?emojis=1f60f_1f60f&text=%F0%9F%A7%8A%20ABOUT%20ME%20%F0%9F%A7%8A)](https://pimp-my-readme-next.vercel.app)
 ## <p align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Angry%20Face%20with%20Horns.png" alt="Angry Face with Horns" width="30" height="30" /> ABOUT ME <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="30" height="30" /> </p>
 
 <table>
@@ -72,7 +73,7 @@
 [![](https://visitcount.itsvg.in/api?id=vietanh240&icon=0&color=0)](https://visitcount.itsvg.in)
 <br>
 
-[![🧊 GitHub Profile 3D Contrib 🧊](https://pimp-my-readme-next.vercel.app/api/sliding-text?emojis=&text=%F0%9F%A7%8A%20GitHub%20Profile%203D%20Contrib%20%F0%9F%A7%8A)](https://pimp-my-readme-next.vercel.app)
+### <p align="center"> Github Profile 3D Contrib </p>
 ![svg](https://raw.githubusercontent.com/vietanh240/vietanh240/6702a5e6ee23265cbe5284132e8b5564fb502dbb/profile-3d-contrib/profile-south-season-animate.svg)
 
 ---
