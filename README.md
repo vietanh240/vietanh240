@@ -10,11 +10,6 @@
 
 ## <p align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Angry%20Face%20with%20Horns.png" alt="Angry Face with Horns" width="30" height="30" /> ABOUT ME <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="30" height="30" /> </p>
 
-<p align="right">
-  <img src="svg/spotify-theme.svg" style="max-width: 100% alt="spotify-theme" /> <br>
-  <img src="svg/spotify.svg" style="max-width: 100% alt="spotify" />
-</p>
-
 <table>
   <tr>
     <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Skull%20And%20Crossbones.webp" alt="Skull And Crossbones" width="25" height="25" /> Full Name</td>
@@ -95,6 +90,11 @@
     <br>
     <br>
 </div>
+
+<p align="right">
+  <img src="svg/spotify-theme.svg" style="max-width: 100% alt="spotify-theme" /> <br>
+  <img src="svg/spotify.svg" style="max-width: 100% alt="spotify" />
+</p>
 
 <div align="center">
   <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in&layout=zues&font=PixelifySans&quoteType=random" alt="Quote" />
