@@ -97,7 +97,7 @@
 
 ---
 
-## <p align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Angry%20Face%20with%20Horns.png" alt="Angry Face with Horns" width="30" height="30" />WEEKLY DEVELOPMENT BREAKDOWN/p>
+## <p align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Angry%20Face%20with%20Horns.png" alt="Angry Face with Horns" width="30" height="30" />WEEKLY DEVELOPMENT BREAKDOWN </p>
 ## Weekly development breakdown
 <!--START_SECTION:waka-->
 
