@@ -7,9 +7,9 @@
 <a href="#" target="_blank">
   <img src="svg/vietanhdev.svg" width="1200" alt="vietanhdev-official" />
 </a>
+<br>
 
 [![🧊 ABOUT ME 🧊](https://pimp-my-readme-next.vercel.app/api/sliding-text?emojis=1f60f_1f60f&text=%F0%9F%A7%8A%20ABOUT%20ME%20%F0%9F%A7%8A)](https://pimp-my-readme-next.vercel.app)
-## <p align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Angry%20Face%20with%20Horns.png" alt="Angry Face with Horns" width="30" height="30" /> ABOUT ME <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="30" height="30" /> </p>
 
 <table>
   <tr>
@@ -78,7 +78,7 @@
 
 ---
 
-### <p align="center"> Weekly Development Breakdown </p>
+### <p align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Angry%20Face%20with%20Horns.png" alt="Angry Face with Horns" width="30" height="30" /> Weekly Development Breakdown <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="30" height="30" /></p>
 <!--START_SECTION:waka-->
 
 ```txt
