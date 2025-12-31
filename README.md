@@ -72,7 +72,7 @@
 [![](https://visitcount.itsvg.in/api?id=vietanh240&icon=0&color=0)](https://visitcount.itsvg.in)
 <br>
 
-### <p align="center"> GitHub Profile 3D Contrib</p>
+[![🧊 GitHub Profile 3D Contrib 🧊](https://pimp-my-readme-next.vercel.app/api/sliding-text?emojis=&text=%F0%9F%A7%8A%20GitHub%20Profile%203D%20Contrib%20%F0%9F%A7%8A)](https://pimp-my-readme-next.vercel.app)
 ![svg](https://raw.githubusercontent.com/vietanh240/vietanh240/6702a5e6ee23265cbe5284132e8b5564fb502dbb/profile-3d-contrib/profile-south-season-animate.svg)
 
 ---
