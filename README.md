@@ -97,7 +97,7 @@
 
 ---
 
-## <p align="center">Weekly development breakdown</p>
+## <p align="center">WEEKLY DEVELOPMENT BREAKDOWN/p>
 ## Weekly development breakdown
 <!--START_SECTION:waka-->
 
