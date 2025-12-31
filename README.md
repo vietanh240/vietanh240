@@ -75,6 +75,8 @@
 ### <p align="center"> GitHub Profile 3D Contrib </p>
 ![svg](https://raw.githubusercontent.com/vietanh240/vietanh240/6702a5e6ee23265cbe5284132e8b5564fb502dbb/profile-3d-contrib/profile-south-season-animate.svg)
 
+---
+
 ### <p align="center"> WEEKLY DEVELOPMENT BREAKDOWN </p>
 <!--START_SECTION:waka-->
 
