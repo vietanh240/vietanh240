@@ -75,27 +75,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=vietanh240&limit=5&theme=dark&combine_all_yearly_contributions=true)
 [![](https://visitcount.itsvg.in/api?id=vietanh240&icon=0&color=0)](https://visitcount.itsvg.in)
 <br>
-<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Speech%20Balloon.webp" alt="Speech Balloon" width="25" height="25" /> Contact me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Speech%20Balloon.webp" alt="Speech Balloon" width="25" height="25" /></h2>
-<br>
-<img align="right" src="https://i.pinimg.com/originals/c5/f3/c2/c5f3c2ac094652efbc05172cd55120da.gif?nii=t" width="250">
-<div align="left">
-  <a href="https://www.facebook.com/viet.anh.nguyen.756213" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="vietanhdev-facebook" />
-  </a>
-  <a href="https://www.youtube.com/@yugih5exosister" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="vietanhdev-youtube" />
-  </a>
-  <a href="https://www.instagram.com/vietanh6529/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="vietanhdev-instagram" />
-  </a>
-  <a href="mailto:rmtx24@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="vietanhdev-email" />
-  </a>
-</div>
-<br>
-<br>
-
----
 
 ## <p align="center"> WEEKLY DEVELOPMENT BREAKDOWN </p>
 <!--START_SECTION:waka-->
@@ -120,5 +99,26 @@
   <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in&layout=zues&font=PixelifySans&quoteType=random" alt="Quote" />
 </div>
 
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Speech%20Balloon.webp" alt="Speech Balloon" width="25" height="25" /> Contact me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Speech%20Balloon.webp" alt="Speech Balloon" width="25" height="25" /></h2>
+<br>
+<img align="right" src="https://i.pinimg.com/originals/c5/f3/c2/c5f3c2ac094652efbc05172cd55120da.gif?nii=t" width="250">
+<div align="left">
+  <a href="https://www.facebook.com/viet.anh.nguyen.756213" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="vietanhdev-facebook" />
+  </a>
+  <a href="https://www.youtube.com/@yugih5exosister" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="vietanhdev-youtube" />
+  </a>
+  <a href="https://www.instagram.com/vietanh6529/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="vietanhdev-instagram" />
+  </a>
+  <a href="mailto:rmtx24@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="vietanhdev-email" />
+  </a>
+</div>
+<br>
+<br>
+
+---
 
 
