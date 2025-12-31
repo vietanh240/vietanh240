@@ -7,7 +7,8 @@
 <a href="#" target="_blank">
   <img src="svg/vietanhdev.svg" width="1200" alt="vietanhdev-official" />
 </a>
-<br>
+
+---
 
 [![🧊 ABOUT ME 🧊](https://pimp-my-readme-next.vercel.app/api/sliding-text?emojis=1f60f_1f60f&text=%F0%9F%A7%8A%20ABOUT%20ME%20%F0%9F%A7%8A)](https://pimp-my-readme-next.vercel.app)
 
