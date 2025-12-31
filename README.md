@@ -91,7 +91,7 @@
     <br>
 </div>
 
-<p align="right">
+<p align="center">
   <img src="svg/spotify-theme.svg" style="max-width: 100% alt="spotify-theme" /> <br>
   <img src="svg/spotify.svg" style="max-width: 100% alt="spotify" />
 </p>
