@@ -62,7 +62,7 @@
 
 # 📊 GitHub Stats:
 <a href="https://streak-stats.demolab.com/?user=vietanh240&theme=prussian&hide_border=true&border_radius=30&card_width=550&background=45%2C0A0F1F%2C102A43%2C00D4FF">
-  <img src="svg/github-status.svg" width="1500" alt="github-status" />
+  <img src="svg/github-status.svg" width="1400" alt="github-status" />
 </a>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=vietanh240&theme=prussian&hide_border=true&border_radius=30&card_width=550)](https://git.io/streak-stats)
