@@ -1,3 +1,5 @@
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31heslcaoesqrx6b6mvww6g4ao3q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
+
 ## <p align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Pencil.webp" alt="Pencil" width="40" height="40" />[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Gemstones&size=30&pause=1000&color=34B4EDD4&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+%F0%9F%91%8B+Xin+ch%C3%A0o+m%E1%BB%8Di+ng%C6%B0%E1%BB%9Di+!!;Tui+l%C3%A0+Zi%E1%BB%87t+%40nh+%E2%9C%A8+%E2%9C%A8+%E2%9C%A8)](https://git.io/typing-svg)<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bomb.webp" alt="Bomb" width="50" height="50" /> </p>
 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
