@@ -79,7 +79,7 @@
 
 ---
 
-### <p align="center"><img src="https://user-images.githubusercontent.com/74038190/216655846-93807a43-d6e8-448a-bf19-799b5e8c1c0a.gif" width="30" height="30" /> Github Readme Activity Graph <img src="https://user-images.githubusercontent.com/74038190/216655848-cf4d7bed-52aa-4740-8c67-1832472051ec.gif" width="30" height="30" /></p>
+### <p align="center"><img src="https://user-images.githubusercontent.com/74038190/216655846-93807a43-d6e8-448a-bf19-799b5e8c1c0a.gif" width="40" height="40" /> Github Readme Activity Graph <img src="https://user-images.githubusercontent.com/74038190/216655848-cf4d7bed-52aa-4740-8c67-1832472051ec.gif" width="40" height="40" /></p>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vietanh240&theme=react-dark&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
