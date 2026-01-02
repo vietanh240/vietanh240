@@ -75,8 +75,7 @@
 <br>
 
 ### <p align="center"> Github Profile 3D Contrib </p>
-![svg](https://raw.githubusercontent.com/vietanh240/vietanh240/6702a5e6ee23265cbe5284132e8b5564fb502dbb/profile-3d-contrib/profile-south-season-animate.svg)
-
+<img src="profile-3d-contrib/profile-south-season-animate.svg" />
 ---
 
 ### <p align="center"><img src="https://user-images.githubusercontent.com/74038190/216655846-93807a43-d6e8-448a-bf19-799b5e8c1c0a.gif" width="40" height="40" /> Github Readme Activity Graph <img src="https://user-images.githubusercontent.com/74038190/216655848-cf4d7bed-52aa-4740-8c67-1832472051ec.gif" width="40" height="40" /></p>
