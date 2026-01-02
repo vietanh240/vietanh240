@@ -64,7 +64,7 @@
 </a>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=vietanh240&theme=prussian&hide_border=true&border_radius=30&card_width=550)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=vietanh240&theme=prussian&hide_border=true&border_radius=30&card_width=550&background=45%2C0A0F1F%2C102A43%2C00D4FF)](https://git.io/streak-stats)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vietanh240&theme=radical&no-frame=false&no-bg=true&margin-w=4)
