@@ -113,6 +113,8 @@ CSS           0 secs          ░░░░░░░░░░░░░░░░�
     <br>
 </div>
 
+<h2 align="center">Quotes</h2>
+
 <div align="center">
   <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in&layout=zues&font=PixelifySans&quoteType=random" alt="Quote" />
 </div>
