@@ -87,7 +87,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java        5 mins          ███████████▓░░░░░░░░░░░░░   46.76 %
+INI         5 mins          ██████████▓░░░░░░░░░░░░░░   42.42 %
+XML         0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
+Other       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+JSON        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
 ```
 
 <!--END_SECTION:waka-->
