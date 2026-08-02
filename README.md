@@ -87,11 +87,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Bash         4 mins                ███████████████████████▓░   94.64 %
-Other        0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
-TypeScript   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
-JSON         0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
-JavaScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
